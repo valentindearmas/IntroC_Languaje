@@ -1,0 +1,15 @@
+# Ignorar el ejecutable típico de Windows
+*.exe
+
+# Ignorar archivos de salida de compilación comunes
+*.out
+*.o
+
+# Si compilas tus ejecutables sin extensión (típico en Linux/Mac)
+# y los guardas en una carpeta llamada 'build' o 'bin':
+bin/
+build/
+
+# Si tus estudiantes compilan un ejecutable llamado "programa" o "main":
+main
+c_test
