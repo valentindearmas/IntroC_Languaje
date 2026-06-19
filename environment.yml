@@ -1,0 +1,6 @@
+name: jupyter-c-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - xeus-cling
